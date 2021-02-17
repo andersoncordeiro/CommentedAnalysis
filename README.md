@@ -1,3 +1,5 @@
+<img src="./images/topo.jpg"/>
+
 # Análises Comentadas
 
 > Neste repositório eu reuno alguns notebooks com análises exploratórias em diferentes bases da internet, demonstrando a utilização de ferramentas de data science, ilustrando a utilização de cada uma. 
